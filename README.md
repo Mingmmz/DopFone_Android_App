@@ -45,7 +45,7 @@ There are two methods to help you get prepared for our app. You can either downl
      alt="Second page (stop)"
      width="250" height="500"/>
      
-4. The last page records comments from the doctor regarding the data collection session and redirects to either the first page if the data was saved or the second if the data was discarded and the medical professional would like to re-record the data. All the saved files will be stored in **Internal Memory/Download/Dopfone_Recording**. To fetch the files, you can either use the default 'File' app on your phone or download a third-party app and grant it access to your files (such as Solid Explorer).
+4. The last page records comments from the doctor regarding the data collection session and redirects to either the first page if the data was saved or the second if the data was discarded and the medical professional would like to re-record the data. All the saved files will be stored in **Internal Memory/Download/Dopfone_Recordings**. To fetch the files, you can either use the default 'File' app on your phone or download a third-party app and grant it access to your files (such as Solid Explorer).
 
 <img src="Image/Screenshot_20250719-142327_DopFone.jpg"
      alt="Third page (comments)"
