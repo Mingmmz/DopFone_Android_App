@@ -27,7 +27,7 @@ There are two methods to help you get prepared for our app. You can either downl
 7. In Android Studio, look in the toolbar’s device selector dropdown (to the left of the green ▶️). Your phone should appear by its model name (e.g. “Pixel 5” or “SM-G991U”). If it doesn’t show up, click the Refresh icon next to that dropdown.
 8. Once your device is listed, select it in the dropdown. Hit the ▶️ Run button.
 
-## How to use the App
+## How to use the App (Here is the [video tutorial.mp4](Video Tutorial.mp4) showing the whole operation pipeline)
 1. **Remember to turn your volume to the highest.**
 2. The first screen presents a text-entry page for the doctor to enter the custom-assigned **Patient ID** at the time of the consent process, the **Ground Truth** collected by the medical professional before using the device by using the gold standard device, and the **Gestation Period** of the pregnancy. After filling in all the information, hit the **Start** button. It will jump to the second screen.
 
